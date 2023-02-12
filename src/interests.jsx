@@ -4,8 +4,8 @@ import './App.css'
 
 function Interests() {
     return (
-        <div>
-            <p>Interests</p>
+        <div id="main">
+            <h5>Interests</h5>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque velit, corporis dicta nesciunt consequatur sunt nostrum non voluptatibus saepe distinctio repudiandae dolorem est. Quasi, magni? Animi odit eaque fugiat! Enim?</p>
         </div>
     )

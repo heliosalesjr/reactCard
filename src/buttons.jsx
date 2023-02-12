@@ -4,7 +4,7 @@ import './App.css'
 
 function Buttons() {
     return (
-        <div>
+        <div id="main">
             <button>E-mail</button>
             <button>Linkedln</button>
         </div>
