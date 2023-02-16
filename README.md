@@ -1,0 +1,1 @@
+This is a React + Vite project. It was a really good exercise to practice some JSX concepts and remember a lot of CSS. Something like this is a great introduction to the React library, because it stablishes many important inicial concepts. Also, I was able to give the project my personal touch by customizing my font/colors and spacing.
